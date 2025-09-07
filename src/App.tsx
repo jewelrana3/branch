@@ -8,19 +8,7 @@ import { SidebarInset, SidebarProvider } from "./components/ui/sidebar";
 // import Header from "./pages/header/Header";
 
 function App() {
-  return (
-    <SidebarProvider>
-      <AppSidebar />
-      <SidebarInset>
-        {/* header  */}
-        <Header />
-        {/* main content */}
-        <div>
-          <MainLayout />
-        </div>
-      </SidebarInset>
-    </SidebarProvider>
-  );
+  return <>home page no file</>;
 }
 
 export default App;
