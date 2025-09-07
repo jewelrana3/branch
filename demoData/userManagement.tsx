@@ -1,0 +1,53 @@
+export const customerData = [
+  {
+    id: 1,
+    image: "https://i.pravatar.cc/40?img=1", // Example image (replace with your own)
+    name: "Johan Smith",
+    phone: "+123456789",
+    quantity: 950,
+    order: "01",
+    pendingOrder: "-",
+    total: "TSH 50,000",
+    totalPoint: 9500,
+    available: 500,
+    // customer data
+    address: "Dhaka",
+    amount: "STH3434",
+    status: "Success",
+    point: "500",
+  },
+  {
+    id: 2,
+    image: "https://i.pravatar.cc/40?img=1",
+    name: "Johan Smith",
+    phone: "+123456789",
+    quantity: 950,
+    order: "10",
+    pendingOrder: "3",
+    total: "TSH 50,000",
+    totalPoint: 9500,
+    available: 500,
+    // customer
+    address: "Dhaka",
+    amount: "STH3434",
+    status: "Pending",
+    point: "500",
+  },
+  {
+    id: 3,
+    image: "https://i.pravatar.cc/40?img=1",
+    name: "Johan Smith",
+    phone: "+123456789",
+    quantity: 950,
+    order: "90",
+    pendingOrder: "-",
+    total: "TSH 50,000",
+    totalPoint: 9500,
+    available: 500,
+    // customer
+    address: "Dhaka",
+    amount: "STH3434",
+    status: "Success",
+    point: "500",
+  },
+];
